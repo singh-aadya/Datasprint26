@@ -1,6 +1,4 @@
-# GlobalPay Bank — Fraud Intelligence Dashboard
-### BNY Credit Card Fraud Detection · PS1 Submission
-
+Team Convergence - PS1
 ---
 
 ## What This Does
